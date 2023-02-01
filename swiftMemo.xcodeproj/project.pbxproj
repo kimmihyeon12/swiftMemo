@@ -17,6 +17,7 @@
 		8BB9F9FC298A00AB00D32949 /* MemoStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB9F9FB298A00AB00D32949 /* MemoStore.swift */; };
 		8BB9F9FF298A296600D32949 /* MemoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB9F9FE298A296600D32949 /* MemoCell.swift */; };
 		8BB9FA01298A2ABB00D32949 /* ComposeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB9FA00298A2ABB00D32949 /* ComposeView.swift */; };
+		8BB9FA03298A40C500D32949 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB9FA02298A40C500D32949 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		8BB9F9FB298A00AB00D32949 /* MemoStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoStore.swift; sourceTree = "<group>"; };
 		8BB9F9FE298A296600D32949 /* MemoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoCell.swift; sourceTree = "<group>"; };
 		8BB9FA00298A2ABB00D32949 /* ComposeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeView.swift; sourceTree = "<group>"; };
+		8BB9FA02298A40C500D32949 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				8BB9F9F52989FD0000D32949 /* MainListView.swift */,
 				8BB9F9FE298A296600D32949 /* MemoCell.swift */,
 				8BB9FA00298A2ABB00D32949 /* ComposeView.swift */,
+				8BB9FA02298A40C500D32949 /* DetailView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BB9F9FF298A296600D32949 /* MemoCell.swift in Sources */,
+				8BB9FA03298A40C500D32949 /* DetailView.swift in Sources */,
 				8BB9F9FA2989FD7A00D32949 /* memo.swift in Sources */,
 				8BB9F9FC298A00AB00D32949 /* MemoStore.swift in Sources */,
 				8BB9F9E22989FC7C00D32949 /* swiftMemoApp.swift in Sources */,
